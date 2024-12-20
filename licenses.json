@@ -1,0 +1,22 @@
+{
+    "ABCDE-12345-FGHIJ-67890": {
+        "active": true,
+        "expiry_date": "2025-12-31"
+    },
+    "ABCDE-NEKRUR8A2-FGHIJ-67890": {
+            "active": true,
+            "expiry_date": "2025-12-31"
+    },
+    "PZIP8U814": {
+            "active": true,
+            "expiry_date": "2025-12-31"
+    },
+    "PATE-HOMO-NEEKER9IJ1RJ19R": {
+            "active": true,
+            "expiry_date": "2024-12-31"
+    },
+    "ZYXWV-98765-UTSRQ-43210": {
+        "active": true,
+        "expiry_date": "2025-12-31"
+    }
+}
